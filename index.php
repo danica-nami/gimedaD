@@ -29,7 +29,7 @@ name="password">
 <nav style="text-align:center;">
 <a href="mainpage.html"><button>Sign In</button></a><br>
 <a href="reset.html">Reset Pasword</a><br>
-<a href="signup.html">Register</a>
+<a href="register.html">Register</a>
  </nav>
 
 
