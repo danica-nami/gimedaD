@@ -10,7 +10,7 @@
 <body background="bg.jpg">
  
 
-<h1 style="text-align:center;">Log in</h1>
+<h1 style="text-align:center;color:light blue;">Log in</h1>
 
 <form  style="text-align:center;">
 
